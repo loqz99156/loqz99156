@@ -52,7 +52,7 @@
 ## Working principles
 
 ```text
-REAL PROBLEM  →  HUMAN JUDGMENT  →  USEFUL TOOL  →  VERIFIABLE RESULT
+真实问题  →  人的判断  →  实用工具  →  可验证结果
 ```
 
 <p align="center">
