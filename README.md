@@ -33,8 +33,6 @@
   <img src="./assets/project-x-analysis.svg" alt="X Analysis：把平台数据变成月度内容判断" width="100%">
 </a>
 
-## More from the workshop
-
 <a href="https://github.com/loqz99156/pandoc_to_markdown">
   <img src="./assets/project-pandoc-to-markdown.svg" alt="pandoc-to-markdown：统一文档转换工具集" width="100%">
 </a>
