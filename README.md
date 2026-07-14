@@ -59,3 +59,7 @@ REAL PROBLEM  →  HUMAN JUDGMENT  →  USEFUL TOOL  →  VERIFIABLE RESULT
   <b>把重复交给工具，把判断留给人。</b><br>
   <sub>罗里叭说AI · Builder from Xiamen · UTC+8</sub>
 </p>
+
+<a href="./assets/share-card.png">
+  <img src="./assets/share-card.png" alt="罗权章 · 罗里叭说AI 数字名片：把 AI 变成真正能工作的系统" width="100%">
+</a>
