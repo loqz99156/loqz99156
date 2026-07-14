@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img">
+  <title>Grill Sol Terra 项目卡片</title>
+  <desc>让 Sol 判断、Terra 执行的可追踪 Codex App 仓库交付工作流。</desc>
+  <rect x="14" y="14" width="1172" height="272" rx="24" fill="#10203B"/>
+  <rect x="8" y="8" width="1172" height="272" rx="24" fill="#FF675D" stroke="#10203B" stroke-width="4"/>
+  <rect x="42" y="38" width="146" height="33" rx="16" fill="#10203B"/>
+  <text x="115" y="60" fill="#FFFFFF" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="800" letter-spacing="1.3">AI DELIVERY · 02</text>
+  <text x="42" y="139" fill="#10203B" font-family="Arial, sans-serif" font-size="55" font-weight="800" letter-spacing="-2">Grill Sol Terra</text>
+  <text x="44" y="184" fill="#10203B" font-family="Arial, 'PingFang SC', sans-serif" font-size="21">让 Sol 负责判断、Terra 负责执行，用上下文隔离完成可追踪交付。</text>
+  <text x="44" y="226" fill="#3F3040" font-family="Arial, sans-serif" font-size="15">SPEC · TICKETS · TDD · CODE REVIEW · VERIFICATION</text>
+  <text x="44" y="262" fill="#10203B" font-family="Arial, 'PingFang SC', sans-serif" font-size="15" font-weight="800">打开仓库 ↗</text>
+  <rect x="828" y="55" width="134" height="134" rx="20" fill="#FFCE31" stroke="#10203B" stroke-width="3"/>
+  <text x="895" y="132" fill="#10203B" text-anchor="middle" font-family="Georgia, serif" font-size="43" font-style="italic">Sol</text>
+  <path d="M962 122H1017" stroke="#10203B" stroke-width="4"/>
+  <path d="M1000 107L1017 122L1000 137" fill="none" stroke="#10203B" stroke-width="4"/>
+  <rect x="1017" y="55" width="134" height="134" rx="20" fill="#B8F2D0" stroke="#10203B" stroke-width="3"/>
+  <text x="1084" y="132" fill="#10203B" text-anchor="middle" font-family="Georgia, serif" font-size="43" font-style="italic">Terra</text>
+  <text x="895" y="219" fill="#10203B" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="800" letter-spacing="2">DECIDE</text>
+  <text x="1084" y="219" fill="#10203B" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="800" letter-spacing="2">EXECUTE</text>
+</svg>

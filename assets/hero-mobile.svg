@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="920" viewBox="0 0 700 920" role="img">
+  <title>罗权章 Bento 风格 GitHub 主页移动端封面</title>
+  <desc>把 AI 变成真正能工作的系统。AI 落地、知识系统、AI Coding 与内容复盘。</desc>
+  <rect width="700" height="920" fill="#E8F0FB"/>
+  <rect x="36" y="36" width="628" height="476" rx="26" fill="#10203B"/>
+  <rect x="28" y="28" width="628" height="476" rx="26" fill="#FFCE31" stroke="#10203B" stroke-width="5"/>
+  <rect x="62" y="64" width="282" height="39" rx="19" fill="#FBFDFF" stroke="#10203B" stroke-width="2"/>
+  <circle cx="85" cy="84" r="7" fill="#30C875"/>
+  <text x="105" y="90" fill="#10203B" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.2">XIAMEN · UTC+8 · ONLINE</text>
+  <text x="62" y="200" fill="#10203B" font-family="Arial, 'PingFang SC', sans-serif" font-size="67" font-weight="800" letter-spacing="-2">把 AI 变成</text>
+  <text x="62" y="280" fill="#10203B" font-family="Arial, 'PingFang SC', sans-serif" font-size="67" font-weight="800" letter-spacing="-2">真正能工作的</text>
+  <text x="62" y="360" fill="#10203B" font-family="Arial, 'PingFang SC', sans-serif" font-size="67" font-weight="800" letter-spacing="-2">系统<tspan fill="#FF675D">。</tspan></text>
+  <text x="64" y="418" fill="#263B5D" font-family="Arial, 'PingFang SC', sans-serif" font-size="20">AI 落地 · 知识系统 · AI Coding · 内容复盘</text>
+  <text x="64" y="466" fill="#10203B" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2.3">BUILD USEFUL THINGS</text>
+  <rect x="36" y="554" width="274" height="286" rx="26" fill="#10203B"/>
+  <rect x="28" y="546" width="274" height="286" rx="26" fill="#FF675D" stroke="#10203B" stroke-width="5"/>
+  <circle cx="165" cy="662" r="78" fill="#FBFDFF" stroke="#10203B" stroke-width="4"/>
+  <circle cx="165" cy="642" r="29" fill="#8CB9FF" stroke="#10203B" stroke-width="3"/>
+  <path d="M109 720C114 678 135 665 165 665C195 665 216 678 221 720" fill="#10203B"/>
+  <text x="165" y="790" fill="#10203B" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="800" letter-spacing="2">LOQZ / BUILDER</text>
+  <rect x="354" y="554" width="318" height="286" rx="26" fill="#10203B"/>
+  <rect x="346" y="546" width="318" height="286" rx="26" fill="#B8F2D0" stroke="#10203B" stroke-width="5"/>
+  <circle cx="389" cy="590" r="8" fill="#24BC6C"/>
+  <text x="410" y="597" fill="#10203B" font-family="Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="1">BUILDING IN PUBLIC</text>
+  <text x="382" y="676" fill="#10203B" font-family="Arial, 'PingFang SC', sans-serif" font-size="32" font-weight="800">罗权章</text>
+  <text x="382" y="718" fill="#10203B" font-family="Arial, 'PingFang SC', sans-serif" font-size="23" font-weight="700">罗里叭说AI</text>
+  <text x="382" y="774" fill="#263B5D" font-family="Arial, sans-serif" font-size="15">VIBE CODING</text>
+  <text x="382" y="801" fill="#263B5D" font-family="Arial, sans-serif" font-size="15">SYSTEMS THINKING</text>
+  <text x="350" y="886" fill="#10203B" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3">KEEP HUMAN JUDGMENT</text>
+</svg>

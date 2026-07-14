@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="178" viewBox="0 0 1200 178" role="img">
+  <title>当前关注领域</title>
+  <desc>知识系统、AI Coding 交付、内容复盘与 AI 落地。</desc>
+  <rect x="8" y="8" width="1184" height="162" rx="20" fill="#10203B"/>
+  <path d="M310 30V148M600 30V148M890 30V148" stroke="#385172" stroke-width="2"/>
+  <circle cx="48" cy="48" r="7" fill="#30C875"/>
+  <text x="66" y="54" fill="#B8C8E0" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">NOW</text>
+  <text x="40" y="104" fill="#FFFFFF" font-family="Arial, 'PingFang SC', sans-serif" font-size="25" font-weight="800">知识系统</text>
+  <text x="40" y="134" fill="#8FA3BF" font-family="Arial, sans-serif" font-size="13">LOCAL-FIRST · TRACEABLE</text>
+  <text x="340" y="54" fill="#B8C8E0" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">FOCUS</text>
+  <text x="340" y="104" fill="#FFFFFF" font-family="Arial, 'PingFang SC', sans-serif" font-size="25" font-weight="800">AI Coding 交付</text>
+  <text x="340" y="134" fill="#8FA3BF" font-family="Arial, sans-serif" font-size="13">CODEX · CLAUDE CODE</text>
+  <text x="630" y="54" fill="#B8C8E0" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">METHOD</text>
+  <text x="630" y="104" fill="#FFFFFF" font-family="Arial, 'PingFang SC', sans-serif" font-size="25" font-weight="800">内容复盘</text>
+  <text x="630" y="134" fill="#8FA3BF" font-family="Arial, sans-serif" font-size="13">DATA → JUDGMENT</text>
+  <text x="920" y="54" fill="#B8C8E0" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">SHIP</text>
+  <text x="920" y="104" fill="#FFFFFF" font-family="Arial, 'PingFang SC', sans-serif" font-size="25" font-weight="800">AI 落地</text>
+  <text x="920" y="134" fill="#8FA3BF" font-family="Arial, sans-serif" font-size="13">GEO · SAAS · AUTOMATION</text>
+</svg>
