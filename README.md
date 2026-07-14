@@ -61,5 +61,5 @@
 </p>
 
 <a href="./assets/share-card.png">
-  <img src="./assets/share-card.png" alt="罗里叭说AI 数字名片：把 AI 变成真正能工作的系统" width="100%">
+  <img src="./assets/share-card.png" alt="罗里叭说AI 数字名片：包含个人网站、GitHub、X 与微信好友二维码" width="100%">
 </a>
