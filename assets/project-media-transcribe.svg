@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img">
+  <title>Media Transcribe 项目卡片</title>
+  <desc>统一转录视频、播客、RSS 与本地音频，支持批量处理、断点续跑、中文翻译和 Markdown 输出。</desc>
+  <rect x="14" y="14" width="1172" height="302" rx="24" fill="#10203B"/>
+  <rect x="8" y="8" width="1172" height="302" rx="24" fill="#D9E8FF" stroke="#10203B" stroke-width="4"/>
+  <rect x="42" y="38" width="172" height="33" rx="16" fill="#10203B"/>
+  <text x="128" y="60" fill="#FFFFFF" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="800" letter-spacing="1.3">MEDIA PIPELINE · 01</text>
+  <text x="42" y="150" fill="#10203B" font-family="Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="-2">Media Transcribe</text>
+  <text x="44" y="198" fill="#263B5D" font-family="Arial, 'PingFang SC', sans-serif" font-size="21">统一转录视频、播客、RSS 与本地音频，输出结构化 Markdown。</text>
+  <text x="44" y="244" fill="#4B617E" font-family="Arial, sans-serif" font-size="15">DOUYIN · BILIBILI · YOUTUBE · PODCAST · RSS · RESUME · TRANSLATION</text>
+  <text x="44" y="286" fill="#10203B" font-family="Arial, 'PingFang SC', sans-serif" font-size="15" font-weight="800">打开仓库 ↗</text>
+  <rect x="824" y="42" width="304" height="230" rx="18" fill="#FBFDFF" stroke="#10203B" stroke-width="3"/>
+  <rect x="846" y="64" width="92" height="34" rx="8" fill="#FF675D" stroke="#10203B" stroke-width="2"/>
+  <text x="892" y="86" fill="#10203B" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="800">VIDEO</text>
+  <rect x="846" y="112" width="92" height="34" rx="8" fill="#FFCE31" stroke="#10203B" stroke-width="2"/>
+  <text x="892" y="134" fill="#10203B" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="800">RSS</text>
+  <rect x="846" y="160" width="92" height="34" rx="8" fill="#B8F2D0" stroke="#10203B" stroke-width="2"/>
+  <text x="892" y="182" fill="#10203B" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="800">AUDIO</text>
+  <path d="M938 81H982M938 129H982M938 177H982" stroke="#10203B" stroke-width="3"/>
+  <path d="M970 70L982 81L970 92M970 118L982 129L970 140M970 166L982 177L970 188" fill="none" stroke="#10203B" stroke-width="3"/>
+  <rect x="982" y="76" width="122" height="111" rx="14" fill="#EBC9FF" stroke="#10203B" stroke-width="3"/>
+  <path d="M1010 108V153M1024 120V141M1038 101V160M1052 114V147M1066 106V155" stroke="#10203B" stroke-width="5" stroke-linecap="round"/>
+  <text x="1043" y="176" fill="#10203B" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="800">TRANSCRIPT</text>
+  <path d="M876 226H1060" stroke="#10203B" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="908" cy="226" r="10" fill="#30C875" stroke="#10203B" stroke-width="2"/>
+  <circle cx="966" cy="226" r="10" fill="#FFCE31" stroke="#10203B" stroke-width="2"/>
+  <circle cx="1024" cy="226" r="10" fill="#FF675D" stroke="#10203B" stroke-width="2"/>
+  <text x="968" y="253" fill="#10203B" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="800">SOURCE → SPEECH → MARKDOWN</text>
+</svg>

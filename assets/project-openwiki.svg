@@ -3,8 +3,8 @@
   <desc>本地优先、可阅读、可追溯的 LLM 知识库。</desc>
   <rect x="14" y="14" width="1172" height="302" rx="24" fill="#10203B"/>
   <rect x="8" y="8" width="1172" height="302" rx="24" fill="#B8F2D0" stroke="#10203B" stroke-width="4"/>
-  <rect x="42" y="38" width="118" height="33" rx="16" fill="#10203B"/>
-  <text x="101" y="60" fill="#FFFFFF" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="800" letter-spacing="1.5">FLAGSHIP · 01</text>
+  <rect x="42" y="38" width="148" height="33" rx="16" fill="#10203B"/>
+  <text x="116" y="60" fill="#FFFFFF" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="800" letter-spacing="1.5">KNOWLEDGE · 02</text>
   <text x="42" y="150" fill="#10203B" font-family="Arial, sans-serif" font-size="61" font-weight="800" letter-spacing="-2">OpenWiki</text>
   <text x="44" y="198" fill="#263B5D" font-family="Arial, 'PingFang SC', sans-serif" font-size="22">把原始文档持续编译成可读、可链接、可检索的 Markdown 知识库。</text>
   <text x="44" y="244" fill="#4B617E" font-family="Arial, sans-serif" font-size="15">OBSIDIAN · QMD · PAGEINDEX · CODEX · CLAUDE CODE · OPENCLAW</text>

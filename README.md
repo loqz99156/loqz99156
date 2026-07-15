@@ -17,6 +17,12 @@
 
 ## Selected builds
 
+<a href="https://github.com/loqz99156/media-transcribe">
+  <img src="./assets/project-media-transcribe.svg" alt="Media Transcribe：统一音视频转录与 Markdown 输出 Agent Skill" width="100%">
+</a>
+
+<br>
+
 <a href="https://github.com/loqz99156/openwiki">
   <img src="./assets/project-openwiki.svg" alt="OpenWiki：本地优先的 LLM 知识库" width="100%">
 </a>
