@@ -17,6 +17,8 @@
 
 ## Selected builds
 
+<!-- 卡片角标只保留稳定类别，不使用 01/02 等顺序编号；展示顺序只由 README 中的排列决定。 -->
+
 <a href="https://github.com/loqz99156/media-transcribe">
   <img src="./assets/project-media-transcribe.svg" alt="Media Transcribe：统一音视频转录与 Markdown 输出 Agent Skill" width="100%">
 </a>
